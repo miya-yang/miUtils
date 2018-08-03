@@ -1,0 +1,27 @@
+{
+  "name": "miutils",
+  "version": "1.0.0",
+  "description": "轻量级javascript基础工具类，提供对数组、日期、字符串等处理操作，方便开发",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "webpack": "^4.16.4"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miya-yang/miUtils.git"
+  },
+  "author": "Miyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miya-yang/miUtils/issues"
+  },
+  "homepage": "https://github.com/miya-yang/miUtils#readme"
+}
